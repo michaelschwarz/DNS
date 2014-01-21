@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNS.UnitTests", "DNS.UnitTests\DNS.UnitTests.csproj", "{CC5552C7-46F6-4684-BEA8-0541C2EB2EAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNS", "DNS\DNS.csproj", "{43C6F30A-3EFA-45E1-ACF8-3D42C74BDC72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnsConsole", "DnsConsole\DnsConsole.csproj", "{2DDEACF4-D21B-4143-B4CE-55CC68098835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO", "..\IO\IO\IO.csproj", "{A3B69586-127A-4287-9EA1-E64E2C42131C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5552C7-46F6-4684-BEA8-0541C2EB2EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5552C7-46F6-4684-BEA8-0541C2EB2EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5552C7-46F6-4684-BEA8-0541C2EB2EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5552C7-46F6-4684-BEA8-0541C2EB2EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C6F30A-3EFA-45E1-ACF8-3D42C74BDC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C6F30A-3EFA-45E1-ACF8-3D42C74BDC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C6F30A-3EFA-45E1-ACF8-3D42C74BDC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C6F30A-3EFA-45E1-ACF8-3D42C74BDC72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDEACF4-D21B-4143-B4CE-55CC68098835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDEACF4-D21B-4143-B4CE-55CC68098835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDEACF4-D21B-4143-B4CE-55CC68098835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDEACF4-D21B-4143-B4CE-55CC68098835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B69586-127A-4287-9EA1-E64E2C42131C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B69586-127A-4287-9EA1-E64E2C42131C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B69586-127A-4287-9EA1-E64E2C42131C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B69586-127A-4287-9EA1-E64E2C42131C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
